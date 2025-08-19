@@ -1,7 +1,7 @@
 # EC-LNM-Prediction
 
 ### step 0
-```
+```shell
 git clone git@github.com:sunmouren/EC-LNM-Prediction.git
 ```
 Download the dataset folder provided by Releases and extract it. If you need a trained model, you can download the models folder provided by Releases.
